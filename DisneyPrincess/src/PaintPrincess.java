@@ -1,7 +1,7 @@
 
 public class PaintPrincess {
-	public void sPrincess()
+	public void pPrincess()
 	{
-	System.out.println(" Here comes the Singing Princess");
+	System.out.println(" Here comes the Painting Princess");
 	}
 }
